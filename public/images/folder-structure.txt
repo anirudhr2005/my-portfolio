@@ -1,0 +1,43 @@
+public/
+├── images/
+│   ├── profile/
+│   │   └── image0.jpeg          # Your profile photo for hero section
+│   ├── projects/
+│   │   ├── chat-application/
+│   │   │   ├── main-interface.png       # Main chat interface
+│   │   │   ├── login-screen.png         # Login/signup screen
+│   │   │   ├── chat-room.png            # Active chat room
+│   │   │   └── mobile-view.png          # Mobile responsive view
+│   │   ├── tesla-market-analysis/
+│   │   │   ├── swot-analysis.png        # SWOT analysis chart
+│   │   │   ├── market-data.png          # Market data visualization
+│   │   │   ├── financial-charts.png     # Financial performance charts
+│   │   │   └── presentation-slide.png   # Key presentation slide
+│   │   ├── chess-game/
+│   │   │   ├── game-board.png           # Chess board interface
+│   │   │   ├── console-output.png       # Console game output
+│   │   │   ├── code-structure.png       # Code architecture
+│   │   │   └── gameplay-demo.gif        # Short gameplay demo
+│   │   ├── hotel-management/
+│   │   │   ├── main-menu.png            # System main menu
+│   │   │   ├── booking-interface.png    # Room booking screen
+│   │   │   ├── customer-details.png     # Customer management
+│   │   │   └── billing-system.png       # Billing interface
+│   │   ├── handwriting-machine/
+│   │   │   ├── machine-setup.jpg        # Physical machine photo
+│   │   │   ├── control-software.png     # Control software interface
+│   │   │   ├── sample-output.jpg        # Handwriting sample
+│   │   │   └── hardware-components.jpg  # Hardware components
+│   │   └── autocorrect-tool/
+│   │       ├── tool-interface.png       # Main tool interface
+│   │       ├── correction-demo.png      # Correction in action
+│   │       ├── algorithm-flow.png       # Algorithm flowchart
+│   │       └── performance-metrics.png  # Performance statistics
+│   └── certifications/
+│       ├── python-motion-cut.jpg        # Python Programming certificate
+│       ├── data-analytics-learntube.jpg # Data Analytics certificate
+│       ├── intro-analytics-learntube.jpg# Intro to Analytics certificate
+│       ├── data-science-forage.jpg      # Data Science simulation certificate
+│       ├── ai-intro-ibm.jpg             # IBM AI certificate
+│       ├── cpp-mbtb.jpg                 # C++ Programming certificate
+│       └── c-programming-mbtb.jpg       # C Programming certificate
